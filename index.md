@@ -25,6 +25,8 @@ width=110>
 </div>
 -->
 
+Test before
+
 <table align="center"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td>
@@ -60,6 +62,7 @@ width=110>
 </tr>
 </table>
 
+text after
 
 <hr>
 <p>
