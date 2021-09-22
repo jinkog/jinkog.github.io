@@ -30,7 +30,7 @@ width=110>
 <table align="center"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td>
-  <IMG ALIGN=CENTER, SRC="./Images/Pictures/JinkoGraham2013.JPG", ALT="snapshot",  width=100></td>
+  <IMG ALIGN=CENTER, SRC="JinkoGraham2013.JPG", ALT="snapshot",  width=100></td>
 </td>
 <td>
   <table> <!-- table within second column for contact info -->
