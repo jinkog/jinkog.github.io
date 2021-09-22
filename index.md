@@ -31,7 +31,7 @@ width=110>
 <table> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td>
-  <IMG SRC="JinkoGraham2013.JPG",width=100>
+  <img src="JinkoGraham2013.JPG">
 </td>
 <td>
   <table> <!-- table within second column for contact info -->
