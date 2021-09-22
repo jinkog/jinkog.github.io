@@ -2,6 +2,8 @@
 title: Jinko Graham's Homepage
 ---
 
+<table> <tr><td>test</td><td>test test</td></tr></table>
+
 <!--
 <TABLE BORDER=0 CELLSPACING=8 CELLPADDING=0 WIDTH="100%" >
 <TR>
