@@ -41,8 +41,7 @@ Test before
   <!-- <td align="left"> Office SSC-K10553</td> -->
   </tr>
   <tr>
-  <td align="left"> &nbsp; 
-  Professor </td>
+  <td align="left"> &nbsp; Professor </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
   <td align="left"> <a href=//www.sfu.ca> Simon Fraser University </a> </td>
   </tr>
@@ -51,12 +50,11 @@ Test before
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
   <td align="left"> Burnaby, BC V5A 1S6</td>
   </tr>
-<tr>
-<td align="left"> &nbsp; <A HREF="https://sfustatgen.github.io">Research lab</A> 
-</td>
-  <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <A HREF="Teaching/">Courses</A></td>
-</tr>
+  <tr>
+    <td align="left"> &nbsp; <A HREF="https://sfustatgen.github.io">Research lab</A></td>
+    <td align="center">&nbsp; &nbsp; &nbsp; </td>
+    <td align="left"> <A HREF="Teaching/">Courses</A></td>
+  </tr>
   </table>
 </td>
 </tr>
