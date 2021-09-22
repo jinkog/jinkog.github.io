@@ -25,9 +25,8 @@ width=110>
 </div>
 -->
 
-Test before
 
-<table align="center"> <!-- Table with two columns, one for picture, one for contact info -->
+<table> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td>
   <IMG ALIGN=CENTER, SRC="JinkoGraham2013.JPG", ALT="snapshot",  width=100>
