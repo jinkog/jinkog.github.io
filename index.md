@@ -7,7 +7,6 @@ title: Jinko Graham's Homepage
 <TR>
 <TD bgcolor="white" VALIGN=TOP WIDTH=110>
 <begin navigation toolbar contents>
-
 <IMG ALIGN=CENTER, SRC="./Images/Pictures/JinkoGraham2013.JPG", ALT="snapshot", 
 width=110>
 <p>
