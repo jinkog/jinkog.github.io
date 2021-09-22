@@ -25,11 +25,11 @@ width=110>
 -->
 
 <div align="center">
-<table align="center"> <!-- Table with two columns, one for picture, one for contact info -->
+<table> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td><img src="JinkoGraham2013.JPG" align="center" alt="snapshot" width=100></td>
 <td>
-  <table align="center"> <!-- table within second column for contact info -->
+  <table> <tr> <td>test</td><td>test</td><td>test</td></tr> <!-- table within second column for contact info -->
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
