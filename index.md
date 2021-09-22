@@ -26,10 +26,8 @@ width=110>
 
 <div align="center">
 <table> <!-- Table with two columns, one for picture, one for contact info -->
-  <tr><td>test</td>
-<!-- <td><img src="JinkoGraham2013.JPG" align="center" alt="snapshot" width=100></td> -->
-<td>
-  <table> <tr> <td>test</td><td>test</td><td>test</td></tr> <!-- table within second column for contact info -->
+<td><img src="JinkoGraham2013.JPG" align="center" alt="snapshot" width=100></td>
+<td><table> <tr> <td>test</td><td>test</td><td>test</td></tr> <!-- table within second column for contact info -->
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
@@ -51,8 +49,7 @@ width=110>
     <td align="center">&nbsp; &nbsp; &nbsp; </td>
     <td align="left"> <A HREF="Teaching/">Courses</A></td>
   </tr>
-  </table>
-</td>
+  </table></td>
 </tr>
 </table>
 </div>
