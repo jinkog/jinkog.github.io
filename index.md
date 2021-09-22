@@ -52,7 +52,7 @@ width=110>
   <td align="left"> Burnaby, BC V5A 1S6</td>
   </tr>
 <tr>
-<td align="left"> &nbsp; <A HREF="http://stat.sfu.ca/statgen.html">Research lab</A> 
+<td align="left"> &nbsp; <A HREF="https://sfustatgen.github.io">Research lab</A> 
 </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
   <td align="left"> <A HREF="Teaching/">Courses</A></a> </td>
