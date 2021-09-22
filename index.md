@@ -59,8 +59,6 @@ width=110>
 </tr>
 </table>
 
-text after
-
 <hr>
 <p>
 Why Statistics? A core activity in science is collecting data to develop 
