@@ -24,6 +24,8 @@ width=110>
 </div>
 -->
 
+hi
+
 <div align="center">
 <table> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
