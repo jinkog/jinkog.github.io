@@ -89,13 +89,12 @@ If you have interests
 in statistics and computing and share a curiousity about
 genetics and biology, please consider <a href=http://stat.sfu.ca/grad/brochure.html>applying</a>
 for graduate studies at SFU. I welcome
-<A HREF="http://stat.sfu.ca/statgen.html">collaborations</A> with interested 
+<A HREF="https://sfustatgen.github.io/">collaborations</A> with interested 
 students and other scientists! 
 </p>
 
 <hr size=3 width="100%"><p>
 <i>I and Simon Fraser University respectfully acknowledge the unceded traditional territories of the Coast Salish peoples, including the səl̓ilw̓ətaʔɬ (Tsleil-Waututh), kʷikʷəƛ̓əm (Kwikwetlem), Sḵwx̱wú7mesh Úxwumixw (Squamish) and xʷməθkʷəy̓əm (Musqueam) Nations, on which SFU Burnaby is located.
 </i>
-</BODY>
-</HTML>
+
 
