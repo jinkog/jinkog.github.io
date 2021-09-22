@@ -2,8 +2,6 @@
 title: Jinko Graham's Homepage
 ---
 
-<table> <tr><td>test</td><td>test link <a href="https://www.sfu.ca">link test</a></td></tr></table>
-
 <!--
 <TABLE BORDER=0 CELLSPACING=8 CELLPADDING=0 WIDTH="100%" >
 <TR>
