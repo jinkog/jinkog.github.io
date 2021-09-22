@@ -1,5 +1,5 @@
 ---
-Title: Jinko Graham's Homepage
+title: Jinko Graham's Homepage
 ---
 
 <!--
