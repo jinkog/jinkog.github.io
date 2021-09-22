@@ -36,16 +36,16 @@ width=110>
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <a href=//www.stat.sfu.ca/>Statistics and Actuarial Science</a> </td>
+  <td align="left"> <a href="https://www.stat.sfu.ca/>Statistics and Actuarial Science"</a> </td>
   <!-- <td align="left"> Office SSC-K10553</td> -->
   </tr>
   <tr>
   <td align="left"> &nbsp; Professor </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <a href=//www.sfu.ca> Simon Fraser University </a> </td>
+  <td align="left"> <a href="https://www.sfu.ca"> Simon Fraser University </a> </td>
   </tr>
   <tr>
-   <td align="left"> &nbsp; orcid <a href=http://orcid.org/0000-0003-4568-1228>0000-0003-4568-1228</a></td>
+   <td align="left"> &nbsp; orcid <a href="http://orcid.org/0000-0003-4568-1228">0000-0003-4568-1228</a></td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
   <td align="left"> Burnaby, BC V5A 1S6</td>
   </tr>
