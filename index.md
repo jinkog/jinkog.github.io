@@ -26,7 +26,7 @@ width=110>
 -->
 
 
-<table> <!-- Table with two columns, one for picture, one for contact info -->
+<table border=0 cellspacing=8 cellpadding=0 width=100> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td>
   <img src="JinkoGraham2013.JPG" align="center" alt="snapshot" width=100>
