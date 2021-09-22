@@ -27,7 +27,7 @@ width=110>
 <div align="center">
 <table align="center"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
-<td><img src="JinkoGraham2013.JPG" align="center" alt="snapshot" width=100 height=100></td>
+<td><img src="JinkoGraham2013.JPG" align="center" alt="snapshot" width=100></td>
 <td>
   <table align="center"> <!-- table within second column for contact info -->
   <tr>
