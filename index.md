@@ -10,7 +10,7 @@ title: Jinko Graham's Homepage
 <IMG ALIGN=CENTER, SRC="./Images/Pictures/JinkoGraham2013.JPG", ALT="snapshot", 
 width=110>
 <p>
-<P><A HREF="http://stat.sfu.ca/statgen.html">Working Group</A>
+<P><A HREF="https://sfustatgen.github.io/">Working Group</A>
 <P><A HREF="Papers/Programs/">Programs</A>
 <P><A HREF="Cvstuff/cvsystem_cv.html">CV</A>
 <P><A HREF="Teaching/">Teaching</A>
@@ -36,7 +36,7 @@ width=110>
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <a href="https://www.stat.sfu.ca/>Statistics and Actuarial Science"</a> </td>
+  <td align="left"> <a href="https://www.stat.sfu.ca/">Statistics and Actuarial Science"</a> </td>
   <!-- <td align="left"> Office SSC-K10553</td> -->
   </tr>
   <tr>
