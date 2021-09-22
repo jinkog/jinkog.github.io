@@ -7,8 +7,7 @@ title: Jinko Graham's Homepage
 <TR>
 <TD bgcolor="white" VALIGN=TOP WIDTH=110>
 <begin navigation toolbar contents>
-<IMG ALIGN=CENTER, SRC="./Images/Pictures/JinkoGraham2013.JPG", ALT="snapshot", 
-width=110>
+<IMG ALIGN=CENTER, SRC="./Images/Pictures/JinkoGraham2013.JPG", ALT="snapshot" width=110>
 <p>
 <P><A HREF="https://sfustatgen.github.io/">Working Group</A>
 <P><A HREF="Papers/Programs/">Programs</A>
@@ -28,9 +27,7 @@ width=110>
 
 <table align="center"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
-<td>
-  <img src="JinkoGraham2013.JPG" align="center" alt="snapshot" width=100>
-</td>
+<td><img src="JinkoGraham2013.JPG" align="center" alt="snapshot" width=300></td>
 <td>
   <table align="center"> <!-- table within second column for contact info -->
   <tr>
