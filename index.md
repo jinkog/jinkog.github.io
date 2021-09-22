@@ -25,7 +25,6 @@ width=110>
 </div>
 -->
 
-<div style="text-align:center">
 <table align="center"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td>
@@ -60,7 +59,7 @@ width=110>
 </td>
 </tr>
 </table>
-</div>
+
 
 <hr>
 <p>
