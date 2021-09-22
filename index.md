@@ -29,7 +29,7 @@ width=110>
 <table align="center"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td>
-  <IMG ALIGN=CENTER, SRC="JinkoGraham2013.JPG", ALT="snapshot",  width=100></td>
+  <IMG ALIGN=CENTER, SRC="JinkoGraham2013.JPG", ALT="snapshot",  width=100>
 </td>
 <td>
   <table> <!-- table within second column for contact info -->
@@ -54,14 +54,12 @@ width=110>
 <td align="left"> &nbsp; <A HREF="https://sfustatgen.github.io">Research lab</A> 
 </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <A HREF="Teaching/">Courses</A></a> </td>
+  <td align="left"> <A HREF="Teaching/">Courses</A></td>
 </tr>
   </table>
 </td>
 </tr>
-
 </table>
-
 </div>
 
 <hr>
