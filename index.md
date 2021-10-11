@@ -2,7 +2,7 @@
 title: Jinko Graham's Homepage
 ---
 TEST
-<div align="center">
+
 <table cellspacing="0" cellpadding="0"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td><img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100"></td>
@@ -33,10 +33,8 @@ TEST
 </td>
 </tr>
 </table>
-</div>
 
-<hr>
-<p>
+
 Why Statistics? A core activity in science is collecting data to develop 
 and evaluate theories about the way things work.
 To explore research questions, we design studies and then 
