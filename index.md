@@ -1,7 +1,7 @@
 ---
 title: Jinko Graham's Homepage
 ---
-TEST4
+TEST5
 
 <table cellspacing="0" cellpadding="0"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
@@ -34,7 +34,8 @@ TEST4
 </tr>
 </table>
 
-<img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100"><table> 
+<img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100">
+<table> 
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
