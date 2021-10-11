@@ -4,7 +4,7 @@ title: Jinko Graham's Homepage
 <div align="center">
 <table cellspacing="0" cellpadding="0"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
-<td><img src="JinkoGraham2013.JPG" style="vertical-align:top" style="horizontal-align:center" alt="snapshot" width=100></td>
+<td><img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width=100></td>
 <td>
   <table> <!-- table within second column for contact info -->
   <tr>
