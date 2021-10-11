@@ -1,7 +1,7 @@
 ---
 title: Jinko Graham's Homepage
 ---
-TEST2
+TEST3
 
 <table cellspacing="0" cellpadding="0"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
@@ -35,6 +35,30 @@ TEST2
 </table>
 
 
+<table> 
+  <tr>
+  <td align="left"> &nbsp; Jinko Graham </td>
+  <td align="center">&nbsp; &nbsp; &nbsp; </td>
+  <td align="left"> <a href="https://www.stat.sfu.ca/">Statistics and Actuarial Science</a> </td>
+  <!-- <td align="left"> Office SSC-K10553</td> -->
+  </tr>
+  <tr>
+  <td align="left"> &nbsp; Professor </td>
+  <td align="center">&nbsp; &nbsp; &nbsp; </td>
+  <td align="left"> <a href="https://www.sfu.ca"> Simon Fraser University </a> </td>
+  </tr>
+  <tr>
+   <td align="left"> &nbsp; orcid <a href="http://orcid.org/0000-0003-4568-1228">0000-0003-4568-1228</a></td>
+  <td align="center">&nbsp; &nbsp; &nbsp; </td>
+  <td align="left"> Burnaby, BC V5A 1S6</td>
+  </tr>
+  <tr>
+    <td align="left"> &nbsp; <A HREF="https://sfustatgen.github.io">Research lab</A></td>
+    <td align="center">&nbsp; &nbsp; &nbsp; </td>
+    <td align="left"> <A HREF="Teaching/">Courses</A></td>
+  </tr>
+  </table>
+  
 Why Statistics? A core activity in science is collecting data to develop 
 and evaluate theories about the way things work.
 To explore research questions, we design studies and then 
