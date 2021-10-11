@@ -1,30 +1,6 @@
 ---
 title: Jinko Graham's Homepage
 ---
-
-<!--
-<TABLE BORDER=0 CELLSPACING=8 CELLPADDING=0 WIDTH="100%" >
-<TR>
-<TD bgcolor="white" VALIGN=TOP WIDTH=110>
-<begin navigation toolbar contents>
-<IMG ALIGN=CENTER, SRC="./Images/Pictures/JinkoGraham2013.JPG", ALT="snapshot" width=110>
-<p>
-<P><A HREF="https://sfustatgen.github.io/">Working Group</A>
-<P><A HREF="Papers/Programs/">Programs</A>
-<P><A HREF="Cvstuff/cvsystem_cv.html">CV</A>
-<P><A HREF="Teaching/">Teaching</A>
-<P><A HREF="Reference/links.html">Reference</A>
-<end navigation toolbar contents>
-</td>
-<end navigation toolbar>
-<IMG ALIGN="center", SRC="./Images/Pictures/JinkoGraham2013.JPG", ALT="snapshot", 
-width=110>
-<div style="text-align:center">
-<b><H2> &nbsp; Jinko Graham </H2></b> 
-</div>
--->
-
-
 <div align="center">
 <table> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
