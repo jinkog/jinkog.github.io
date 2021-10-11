@@ -68,8 +68,9 @@ for graduate studies at SFU. I welcome
 students and other scientists! 
 </p>
 
-<hr size=3 width="100%"><p>
+---
+<p style="font-size:90%;font-style:italic">
 <i>I am grateful to live, work and play on the unceded traditional territories of the Coast Salish peoples, including the səl̓ilw̓ətaʔɬ (Tsleil-Waututh), kʷikʷəƛ̓əm (Kwikwetlem), Sḵwx̱wú7mesh Úxwumixw (Squamish) and xʷməθkʷəy̓əm (Musqueam) Nations, on which SFU Burnaby is located.
-</i>
+</p>
 
 
