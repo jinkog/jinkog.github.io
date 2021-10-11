@@ -2,7 +2,7 @@
 title: Jinko Graham's Homepage
 ---
 <div align="center">
-<table> <!-- Table with two columns, one for picture, one for contact info -->
+<table cellspacing="0" cellpadding="0"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td><img src="JinkoGraham2013.JPG" style="vertical-align:top" style="horizontal-align:center" alt="snapshot" width=100></td>
 <td>
