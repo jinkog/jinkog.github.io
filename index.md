@@ -35,7 +35,7 @@ width=110>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
   <td align="left"> <a href="https://www.stat.sfu.ca/">Statistics and Actuarial Science</a> </td>
-  <!-- <td align="left"> Office SSC-K10553</td> -->
+    <td> &nbsp; </td> !-- <td align="left"> Office SSC-K10553</td> -->
   </tr>
   <tr>
   <td align="left"> &nbsp; Professor </td>
