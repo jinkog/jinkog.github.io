@@ -6,7 +6,7 @@ title: Jinko Graham's Homepage
 <tr>
 <td><img src="JinkoGraham2013.JPG" style="vertical-align:bottom" style="horizontal-align:center" alt="snapshot" width=100></td>
 <td>
-  <table> <tr> <td>test</td><td>test</td><td>test</td></tr> <!-- table within second column for contact info -->
+  <table> <!-- table within second column for contact info -->
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
