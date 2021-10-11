@@ -4,7 +4,7 @@ title: Jinko Graham's Homepage
 <div align="center">
 <table> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
-<td><img src="JinkoGraham2013.JPG" style="vertical-align:bottom" style="horizontal-align:center" alt="snapshot" width=100></td>
+<td><img src="JinkoGraham2013.JPG" style="vertical-align:top" style="horizontal-align:center" alt="snapshot" width=100></td>
 <td>
   <table> <!-- table within second column for contact info -->
   <tr>
@@ -62,7 +62,7 @@ unrecognized biases in our sampling?
 <p>
 If you have interests
 in statistics and computing and share a curiousity about
-genetics and biology, please consider <a href=http://stat.sfu.ca/grad/brochure.html>applying</a>
+genetics and biology, please consider <a href="https://www.sfu.ca/stat-actsci/graduate/prospective-students/admissions.html">applying</a>
 for graduate studies at SFU. I welcome
 <A HREF="https://sfustatgen.github.io/">collaborations</A> with interested 
 students and other scientists! 
