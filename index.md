@@ -35,17 +35,6 @@ TEST5
 </table>
 
 <img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100">
-
-
-
-|      te      |   |                                  |
-|-----------------------------------------------------|
-| Jinko Graham |   | Statistics and Actuarial Science |
-| Professor    |   |                                  |
-|              |   |                                  |
-
-
-
 <table> 
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
