@@ -1,6 +1,7 @@
 ---
 title: Jinko Graham's Homepage
 ---
+TEST
 <div align="center">
 <table cellspacing="0" cellpadding="0"> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
