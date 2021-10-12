@@ -1,15 +1,15 @@
 ---
 title: Jinko Graham's Homepage
 ---
-TEST6
+TEST7
 
-<table cellspacing="0" cellpadding="0"> <!-- Table with two columns, one for picture, one for contact info -->
-<tbody>
+<table cellspacing="0" cellpadding="0">
+<tbody> <!-- Table with two columns, one for picture, one for contact info -->
 <tr>
 <td><img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100"></td>
 <td>
-  <table> <!-- table within second column for contact info -->
-    <tbody>
+  <table> 
+    <tbody><!-- table within second column for contact info -->
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
