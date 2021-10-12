@@ -1,7 +1,8 @@
 ---
 title: Jinko Graham's Homepage
-logo: /JinkoGraham2013.JPG
 ---
+test 3
+
 <table>
 <tbody> 
 <tr>
