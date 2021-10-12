@@ -35,30 +35,18 @@ TEST5
 </table>
 
 <img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100">
-<table> 
-  <tr>
-  <td align="left"> &nbsp; Jinko Graham </td>
-  <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <a href="https://www.stat.sfu.ca/">Statistics and Actuarial Science</a> </td>
-  <!-- <td align="left"> Office SSC-K10553</td> -->
-  </tr>
-  <tr>
-  <td align="left"> &nbsp; Professor </td>
-  <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <a href="https://www.sfu.ca"> Simon Fraser University </a> </td>
-  </tr>
-  <tr>
-   <td align="left"> &nbsp; orcid <a href="http://orcid.org/0000-0003-4568-1228">0000-0003-4568-1228</a></td>
-  <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> Burnaby, BC V5A 1S6</td>
-  </tr>
-  <tr>
-    <td align="left"> &nbsp; <A HREF="https://sfustatgen.github.io">Research lab</A></td>
-    <td align="center">&nbsp; &nbsp; &nbsp; </td>
-    <td align="left"> <A HREF="Teaching/">Courses</A></td>
-  </tr>
-  </table>
-  
+
+
+Jinko Graham<br>
+Professor<br>
+<a href="https://www.stat.sfu.ca/">Statistics and Actuarial Science</a> <br>
+<a href="https://www.sfu.ca"> Simon Fraser University </a> <br>
+Burnaby, BC V5A 1S6 <br>
+orcid <a href="http://orcid.org/0000-0003-4568-1228">0000-0003-4568-1228</a>
+
+<A HREF="https://sfustatgen.github.io">Research lab</A><br>
+<A HREF="Teaching/">Courses</A> <br>
+
 Why Statistics? A core activity in science is collecting data to develop 
 and evaluate theories about the way things work.
 To explore research questions, we design studies and then 
