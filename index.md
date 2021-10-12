@@ -4,7 +4,7 @@ title: Jinko Graham's Homepage
 <table>
 <tbody> 
 <tr>
-<td><img src="JinkoGraham2013.JPG" style="vertical-align:top; horizontal-align:center" alt="snapshot" width="100"></td>
+<td><img src="JinkoGraham2013.JPG" style="vertical-align:text-top; horizontal-align:center" alt="snapshot" width="100"></td>
 <td>
   <table> 
     <tbody>
