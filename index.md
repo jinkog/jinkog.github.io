@@ -1,12 +1,10 @@
 ---
 title: Jinko Graham's Homepage
 ---
-TEST9
-
 <table>
 <tbody> 
 <tr>
-<td><img src="JinkoGraham2013.JPG" style="vertical-align:center; horizontal-align:center" alt="snapshot" width="100"></td>
+<td><img src="JinkoGraham2013.JPG" style="vertical-align:top; horizontal-align:center" alt="snapshot" width="100"></td>
 <td>
   <table> 
     <tbody>
