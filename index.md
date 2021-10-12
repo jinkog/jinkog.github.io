@@ -4,10 +4,12 @@ title: Jinko Graham's Homepage
 TEST5
 
 <table cellspacing="0" cellpadding="0"> <!-- Table with two columns, one for picture, one for contact info -->
+<tbody>
 <tr>
 <td><img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100"></td>
 <td>
   <table> <!-- table within second column for contact info -->
+    <tbody>
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
@@ -29,9 +31,11 @@ TEST5
     <td align="center">&nbsp; &nbsp; &nbsp; </td>
     <td align="left"> <A HREF="Teaching/">Courses</A></td>
   </tr>
+    </tbody>
   </table>
 </td>
 </tr>
+  </tbody>
 </table>
 
 <img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100">
