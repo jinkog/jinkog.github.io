@@ -1,15 +1,15 @@
 ---
 title: Jinko Graham's Homepage
 ---
-TEST7
+TEST8
 
-<table cellspacing="0" cellpadding="0">
-<tbody> <!-- Table with two columns, one for picture, one for contact info -->
+<table>
+<tbody> 
 <tr>
 <td><img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100"></td>
 <td>
   <table> 
-    <tbody><!-- table within second column for contact info -->
+    <tbody>
   <tr>
   <td align="left"> &nbsp; Jinko Graham </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
@@ -37,19 +37,6 @@ TEST7
 </tr>
   </tbody>
 </table>
-
-<img src="JinkoGraham2013.JPG" style="vertical-align:center" style="horizontal-align:center" alt="snapshot" width="100">
-
-
-Jinko Graham<br>
-Professor<br>
-<a href="https://www.stat.sfu.ca/">Statistics and Actuarial Science</a> <br>
-<a href="https://www.sfu.ca"> Simon Fraser University </a> <br>
-Burnaby, BC V5A 1S6 <br>
-orcid <a href="http://orcid.org/0000-0003-4568-1228">0000-0003-4568-1228</a>
-
-<A HREF="https://sfustatgen.github.io">Research lab</A><br>
-<A HREF="Teaching/">Courses</A> <br>
 
 Why Statistics? A core activity in science is collecting data to develop 
 and evaluate theories about the way things work.
