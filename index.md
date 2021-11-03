@@ -4,7 +4,7 @@ title: Jinko Graham
   <table> 
     <tbody>
   <tr>
-  <td align="left"> &nbsp; Professor </td>
+  <td align="left"> Professor </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
     <td align="left"> <a href="https://sfustatgen.github.io">Research Lab</a>  </td>
   <!-- <td align="left"> Office SSC-K10553</td> -->
