@@ -1,23 +1,23 @@
 ---
-title: Jinko Graham's Homepage
+title: Jinko Graham
 ---
   <table> 
     <tbody>
   <tr>
-  <td align="left"> &nbsp; Jinko Graham </td>
+  <td align="left"> &nbsp; Professor </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <a href="https://www.stat.sfu.ca/">Statistics and Actuarial Science</a> </td>
+    <td align="left"> <a href="https://sfustatgen.github.io">Research Lab</a>  </td>
   <!-- <td align="left"> Office SSC-K10553</td> -->
   </tr>
   <tr>
-  <td align="left"> &nbsp; Professor </td>
+  <td align="left">  <a href="https://www.stat.sfu.ca/">Statistics and Actuarial Science</a> </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> <a href="https://www.sfu.ca"> Simon Fraser University </a> </td>
+    <td align="left"> <a href="/Teaching">Courses</a> </td>
   </tr>
   <tr>
-   <td align="left"> &nbsp; orcid <a href="http://orcid.org/0000-0003-4568-1228">0000-0003-4568-1228</a></td>
+   <td align="left"> <a href="https://www.sfu.ca"> Simon Fraser University </a> &nbsp; </td>
   <td align="center">&nbsp; &nbsp; &nbsp; </td>
-  <td align="left"> Burnaby, BC V5A 1S6</td>
+  <td align="left"> orcid <a href="http://orcid.org/0000-0003-4568-1228">0000-0003-4568-1228</a></td>
   </tr>
   <!-- <tr>
     <td align="left"> &nbsp; <A HREF="https://sfustatgen.github.io">Research lab</A></td>
